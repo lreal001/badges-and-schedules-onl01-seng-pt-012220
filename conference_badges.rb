@@ -39,6 +39,7 @@ end
 
 
 #printer that will output first the results of the #batch_badge_creator method and then of the assign_rooms method #to the screen.
+If the return value of assign_rooms is an array of room assignments, how can you print out each assignment? You'll need to iterate over your array of room assignments in order to puts out each individual assignment.
 
 
 def printer
