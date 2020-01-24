@@ -20,7 +20,9 @@ end
 
 def assign_rooms
   speakers = []
-  speakers.each {|room| }
+  speakers.each {|room| 
+    puts room
+  }
   
 end 
 
