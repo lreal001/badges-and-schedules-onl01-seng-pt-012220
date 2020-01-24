@@ -9,7 +9,7 @@ def badge_maker(name)
   puts "Hello, my name is #{name}."
 end 
 
-
+#batch_badge_creator method that takes an array of names as an #argument and returns an array of badge messages.
 
 
 
@@ -31,6 +31,8 @@ def assign_rooms
     puts room
   }
   puts
+  
+  
 end 
 
 def printer
