@@ -23,7 +23,7 @@ end
 
 
 def assign_rooms
-  speakers = []
+  speakers = [Edsger, Ada, Charles, Alan, Grace, Linus, and Matz]
   speakers.each {|room| 
     puts room
   }
