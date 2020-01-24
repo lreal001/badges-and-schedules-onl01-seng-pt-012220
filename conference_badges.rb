@@ -23,7 +23,7 @@ def assign_rooms
   speakers.each {|room| 
     puts room
   }
-  
+  puts
 end 
 
 def printer
