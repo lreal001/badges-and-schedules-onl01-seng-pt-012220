@@ -38,7 +38,7 @@ def assign_rooms
 end 
 
 
-
+#printer that will output first the results of the #batch_badge_creator method and then of the assign_rooms method #to the screen.
 
 
 def printer
