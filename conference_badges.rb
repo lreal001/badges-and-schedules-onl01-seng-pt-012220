@@ -1,7 +1,5 @@
 # Write your code here.
 
-rooms 1-7
-"Hello, _____! You'll be assigned to room _____!"
 
 
 
