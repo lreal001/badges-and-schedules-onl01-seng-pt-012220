@@ -31,9 +31,15 @@ def assign_rooms
     puts room
   }
   puts
-  
+  each_with_index 
+  1-7
+  counter = +1 
   
 end 
+
+
+
+
 
 def printer
   
